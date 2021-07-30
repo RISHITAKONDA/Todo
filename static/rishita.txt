@@ -1,0 +1,2 @@
+This is a website used to keep a check on your daily activities created using flask 
+we can perform basic operations such as update the existing task deleting the existing task and creating a new task in this application.
